@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>role_operasional</name>
+   <tag></tag>
+   <elementGuidId>10fbbba7-7765-4c00-b470-f4d374f0123d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headlessui-combobox-option-26 > span.block.truncate.font-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='headlessui-combobox-option-26']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c32f0d8a-c89c-4a58-9fa1-8c933db20bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block truncate font-normal</value>
+      <webElementGuid>d67ceaa4-7220-4ddc-8269-d2af470543d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operasional</value>
+      <webElementGuid>0a149811-366a-456e-b574-a8f6c9034a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-combobox-option-26&quot;)/span[@class=&quot;block truncate font-normal&quot;]</value>
+      <webElementGuid>3a0cac21-e640-4526-9bb8-f084da268a22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='headlessui-combobox-option-26']/span</value>
+      <webElementGuid>5bf3d72c-cd87-478c-aa3e-243ea7afcc67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::span[1]</value>
+      <webElementGuid>9eabed09-0e13-45da-ac4f-8e6dcf20d194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Superadmin'])[1]/following::span[2]</value>
+      <webElementGuid>73947d46-ae2e-4a7a-9e70-84c44673c779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[2]/preceding::span[1]</value>
+      <webElementGuid>063a0270-f5b8-4cde-96c9-b798e682a9c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driver'])[4]/preceding::span[2]</value>
+      <webElementGuid>df1f147e-f571-453a-ab8a-514950039899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>2f19ecff-7661-47c8-85c1-8025d215b4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Operasional' or . = 'Operasional')]</value>
+      <webElementGuid>c6f79e3f-e580-4650-99bf-4ae5408df3a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

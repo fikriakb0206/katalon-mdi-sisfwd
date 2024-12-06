@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masuk (1)</name>
+   <tag></tag>
+   <elementGuidId>0dc3ebaa-4b04-4b7b-af6a-397e5bdc20d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efb22deb-f75d-4518-ae5c-30c3b5a9aec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ed8de9cf-c94c-403e-aed6-84879a13a0c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined justify-center hover:bg-white hover:text-secondary text-undefined </value>
+      <webElementGuid>832c62fb-0e96-4f1a-b248-5d03597e601a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>cadb5ded-f758-42ea-a28d-31336d012b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;dashboard-content bg-bg pt-28 flex&quot;]/div[@class=&quot;w-full sm:grid grid-cols-2&quot;]/div[@class=&quot;p-5&quot;]/div[@class=&quot;w-full sm:h-full flex justify-center items-center&quot;]/div[@class=&quot;bg-white border-[1px] border-solid border-line rounded-xl shadow-low px-3 lg:px-6 py-6  w-full border-[1px] p-5 lg:w-5/6&quot;]/form[1]/div[@class=&quot;flex flex-col text-center mb-6&quot;]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined justify-center hover:bg-white hover:text-secondary text-undefined&quot;]</value>
+      <webElementGuid>cc6690e4-b93c-447d-9c7a-8d0c8a22cbc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>1d95c110-091a-452d-95e6-cee4df98abd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div/div/form/div[3]/button</value>
+      <webElementGuid>60d4d2dd-40b2-444c-b2b4-aabcf1becc22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/following::button[1]</value>
+      <webElementGuid>520061be-751b-4ceb-84c8-a3110732dcb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>9e08ab83-70fa-4686-a415-dd004e98cfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::button[1]</value>
+      <webElementGuid>b1780def-e8d8-4328-b0fd-30da97aea14f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c098a734-6e40-4cf2-bcfa-a27516d9484d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>9e7db43a-672b-4468-b6b7-c02daf5d4754</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

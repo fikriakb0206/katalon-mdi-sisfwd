@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>e3253c32-e17a-4690-9d21-ed0ea87f103f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/main/section/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.text-body.font-semibold.text-2xl.mb-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>4500d770-8f2f-43da-b195-90251b395b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-body font-semibold text-2xl mb-12</value>
+      <webElementGuid>35078bdc-f601-46f4-818e-f1a2d90fd959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>5ce0595c-3fca-4f0e-8b1e-8bcc0bf747f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;flex flex-col w-100 h-[100vh] overflow-hidden&quot;]/main[@class=&quot;bg-bg lg:flex  overflow-y-auto lg:overflow-hidden flex-grow relative&quot;]/section[@class=&quot;relative h-full flex flex-col lg:w-4/5&quot;]/div[@class=&quot;flex-grow overflow-y-auto py-5 sm:px-14&quot;]/div[1]/h1[@class=&quot;text-body font-semibold text-2xl mb-12&quot;]</value>
+      <webElementGuid>2f32cfff-80c3-459a-bc88-5a1f095e3031</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/main/section/div/div/h1</value>
+      <webElementGuid>aec72354-c28a-4913-8632-68409e6bc9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::h1[1]</value>
+      <webElementGuid>51e07bbd-d6ef-41fc-aea6-b3ddaf0cc120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Data'])[1]/following::h1[1]</value>
+      <webElementGuid>7f8c9119-47d7-410f-95db-61159e00e518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>8b2de64d-e485-4865-8cac-7f90a29b5f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>cfcabc2b-689e-4a19-9ffd-02551c8bafb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

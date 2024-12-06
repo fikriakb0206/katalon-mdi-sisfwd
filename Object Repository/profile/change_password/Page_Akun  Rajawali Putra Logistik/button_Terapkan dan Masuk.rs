@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Terapkan dan Masuk</name>
+   <tag></tag>
+   <elementGuidId>44388b88-f5ce-483b-80b4-76066e5f9e45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed9faac1-c415-4cf9-a56c-d7d7e5071247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>42b03e52-ed8c-4312-862c-b6f28aa9b15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined w-full justify-center hover:bg-white hover:text-secondary text-undefined </value>
+      <webElementGuid>f4476542-385a-48da-94c3-884930dd8aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terapkan dan Masuk</value>
+      <webElementGuid>352896b3-b03a-4621-a6ae-bb373136e194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-12&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;container max-w-screen-xl mx-auto flex sm:px-10 2xl:px-0 justify-center py-24&quot;]/div[@class=&quot;bg-white border-[1px] border-solid border-line rounded-xl shadow-low px-3 lg:px-6 py-6 w-[494px] mx-auto&quot;]/form[1]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined w-full justify-center hover:bg-white hover:text-secondary text-undefined&quot;]</value>
+      <webElementGuid>00e00df2-5eb5-4791-93da-8428267c1a44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>00911521-edc5-48d3-a364-42d2b72baf34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/div/form/button</value>
+      <webElementGuid>b57aa279-2cf4-4bd9-ab83-8db2162f3bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Password'])[1]/following::button[1]</value>
+      <webElementGuid>c1bb5b4e-e391-499a-93bb-30cda0e9315e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>5d777a24-95f9-481a-bd45-d3c47d421b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terapkan dan Masuk']/parent::*</value>
+      <webElementGuid>8de15099-5acd-4373-a29a-e5d870341e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>0a481936-05a6-4600-a11f-dc5861522b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Terapkan dan Masuk' or . = 'Terapkan dan Masuk')]</value>
+      <webElementGuid>32b550f1-80c5-4122-bde8-2d9346934766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

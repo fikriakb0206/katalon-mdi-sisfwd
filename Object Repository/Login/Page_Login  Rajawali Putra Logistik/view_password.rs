@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>view_password</name>
+   <tag></tag>
+   <elementGuidId>7a2d599e-13c8-4607-b812-19900e8dfd0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>efecd467-e979-4960-a909-79c7091da9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>fc22ef19-37ef-4efe-ba72-623d0330d041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>bbfa221a-2aa3-40ac-805f-bdcd93b6cb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>1e79329d-c31a-44a7-84dd-ce7f66a3841a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>d030f613-f611-4f05-b411-ca4c2ca950de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>0020d503-5bb4-4ae2-8d1b-01660138c232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>39711980-7d56-4f41-8056-18cfb884cfc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-8 h-8 absolute bottom-[13px] right-3 z-50 cursor-pointer</value>
+      <webElementGuid>83c5bd34-774c-41c7-8a87-492ecff034d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;dashboard-content bg-bg pt-28 flex&quot;]/div[@class=&quot;w-full sm:grid grid-cols-2&quot;]/div[@class=&quot;p-5&quot;]/div[@class=&quot;w-full sm:h-full flex justify-center items-center&quot;]/div[@class=&quot;bg-white border-[1px] border-solid border-line rounded-xl shadow-low px-3 lg:px-6 py-6  w-full border-[1px] p-5 lg:w-5/6&quot;]/form[1]/div[@class=&quot;flex flex-col mb-6&quot;]/div[2]/label[@class=&quot;relative text-label focus-within:text-label block&quot;]/svg[@class=&quot;w-8 h-8 absolute bottom-[13px] right-3 z-50 cursor-pointer&quot;]</value>
+      <webElementGuid>94970072-9147-40b2-9e6a-96ff6ea46eed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>490b2206-64fa-43ea-9616-4c857bcde5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>bedcea23-5abe-46f7-ac2d-0f9395ac8987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>2eefa810-d326-42fa-be81-99b643b9bdf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>76f9ebe3-637b-4634-ac25-a8783f5349f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.before click edit all field are disable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc34d470-feb1-4a62-945e-57442544085a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fb6830b-f4bd-4359-a786-7ae311690fe0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>138f8d4f-1645-44ab-ad2f-121cf909cc7e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf4c6e7f-50fa-4bcf-9e11-5018089023fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rplkeysuper@gmail.com'</defaultValue>
+      <description></description>
+      <id>5fb6830b-f4bd-4359-a786-7ae311690fe0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'RPLsup3r2024!'</defaultValue>
+      <description></description>
+      <id>138f8d4f-1645-44ab-ad2f-121cf909cc7e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://trial.rpl.id/'</defaultValue>
+      <description></description>
+      <id>bf4c6e7f-50fa-4bcf-9e11-5018089023fe</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

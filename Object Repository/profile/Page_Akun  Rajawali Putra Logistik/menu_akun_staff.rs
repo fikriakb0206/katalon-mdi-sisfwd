@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_akun_staff</name>
+   <tag></tag>
+   <elementGuidId>85384576-77fb-457e-9bcb-d4febedcea67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/main/aside/div/nav/section[5]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ef95854-4e44-41fd-900f-c62a0c573d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full has-tooltip text-left py-3 px-5 rounded-xl text-xs font-semibold text-label mb-3 flex items-center stroke-label cursor-pointer justify-start</value>
+      <webElementGuid>1a40f7c6-6959-4d71-99f8-b1169f6d149b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/accounts</value>
+      <webElementGuid>78368ebd-fbf2-4cd9-8506-26aac0869159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akun Staff</value>
+      <webElementGuid>ca0bc1bf-1f03-453e-82cd-bc0def9f33db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;flex flex-col w-100 h-[100vh] overflow-hidden&quot;]/main[@class=&quot;bg-bg lg:flex  overflow-y-auto lg:overflow-hidden flex-grow relative&quot;]/aside[@class=&quot;transition-all duration-200 bg-white h-full absolute lg:relative top-0 left-[-100%] lg:left-0 z-10 lg:pt-0 w-4/5 lg:w-1/5&quot;]/div[@class=&quot;h-full overflow-y-auto w-full relative&quot;]/nav[@class=&quot;py-5 px-3 w-full&quot;]/section[5]/a[@class=&quot;w-full has-tooltip text-left py-3 px-5 rounded-xl text-xs font-semibold text-label mb-3 flex items-center stroke-label cursor-pointer justify-start&quot;]</value>
+      <webElementGuid>f6865711-c873-4100-ab88-473ee32aac5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/main/aside/div/nav/section[5]/a[2]</value>
+      <webElementGuid>a631ef60-d94f-44cb-ad2c-54c788ed3010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Akun Staff')]</value>
+      <webElementGuid>26cb8bd7-30c0-4bd0-a7bf-357c600decd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Data'])[1]/following::a[1]</value>
+      <webElementGuid>14b419fd-8ad0-43ff-a5cc-fbccd8d8ee68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[1]/following::a[2]</value>
+      <webElementGuid>f0676127-9179-4981-adcb-6d8e84f584ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Customer'])[1]/preceding::a[1]</value>
+      <webElementGuid>539e9f8e-695b-4fc1-abc6-4ee9fc8138e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Profile'])[1]/preceding::a[2]</value>
+      <webElementGuid>95b3b0ec-8be6-449f-b146-755134099c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Akun Staff']/parent::*</value>
+      <webElementGuid>6a090db4-d28b-4ba8-a032-fa78d525af2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dashboard/accounts')]</value>
+      <webElementGuid>c318eae1-ea1e-4021-b223-2897a8487c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/a[2]</value>
+      <webElementGuid>da63c6fd-3cf6-4ad9-acf6-cd151456608f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dashboard/accounts' and (text() = 'Akun Staff' or . = 'Akun Staff')]</value>
+      <webElementGuid>684e967b-29d0-4188-b652-c681b9602570</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

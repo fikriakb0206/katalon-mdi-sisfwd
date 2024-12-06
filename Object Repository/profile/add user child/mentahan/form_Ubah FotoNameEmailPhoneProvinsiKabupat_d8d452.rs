@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Ubah FotoNameEmailPhoneProvinsiKabupat_d8d452</name>
+   <tag></tag>
+   <elementGuidId>02a1b152-9577-4a2e-a4a3-6c43e338fe73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.rounded-lg.bg-white.p-7.my-10.shadow-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/main/section/div/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>a0cad5a9-7ce5-4231-86c3-efecf960d511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-lg bg-white p-7 my-10 shadow-md </value>
+      <webElementGuid>b42e8701-ba08-481e-8aef-455e1103d065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah FotoNameEmailPhoneProvinsiKabupaten/KotaKecamatanKelurahanAlamatJl. Green Sedayu 7, Cakung Timur, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota JakartaKode Pos Edit ProfileUbah Password</value>
+      <webElementGuid>12cef458-867b-4dcb-9fca-04b08dee3395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;flex flex-col w-100 h-[100vh] overflow-hidden&quot;]/main[@class=&quot;bg-bg lg:flex  overflow-y-auto lg:overflow-hidden flex-grow relative&quot;]/section[@class=&quot;relative h-full flex flex-col lg:w-4/5&quot;]/div[@class=&quot;flex-grow overflow-y-auto py-5 sm:px-14&quot;]/form[@class=&quot;rounded-lg bg-white p-7 my-10 shadow-md&quot;]</value>
+      <webElementGuid>9e29656f-b0d3-4c80-9a26-97f0adccf4ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/main/section/div/form</value>
+      <webElementGuid>9e31fb72-6f6e-4c91-99fa-723866b66635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akun'])[1]/following::form[1]</value>
+      <webElementGuid>87b1b0cd-5414-485d-a6e9-65adb340a855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::form[1]</value>
+      <webElementGuid>740f8e27-9fbc-4230-a33f-5c5e2d430d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>ea0d71bb-ca48-402b-9113-1496ac1e35da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Ubah FotoNameEmailPhoneProvinsiKabupaten/KotaKecamatanKelurahanAlamatJl. Green Sedayu 7, Cakung Timur, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota JakartaKode Pos Edit ProfileUbah Password' or . = 'Ubah FotoNameEmailPhoneProvinsiKabupaten/KotaKecamatanKelurahanAlamatJl. Green Sedayu 7, Cakung Timur, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota JakartaKode Pos Edit ProfileUbah Password')]</value>
+      <webElementGuid>31bf0878-f045-48f5-a316-3ab7f960ba63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

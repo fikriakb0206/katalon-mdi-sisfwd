@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_driver</name>
+   <tag></tag>
+   <elementGuidId>a82b85e1-0898-409f-a651-b901e628cbdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headlessui-combobox-option-44 > span.block.truncate.font-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='headlessui-combobox-option-44']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8fa6f17-f34b-464a-8615-27e10738d4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block truncate font-normal</value>
+      <webElementGuid>9cacf3ec-8886-4332-b758-84cfef3f7851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Driver</value>
+      <webElementGuid>04d54b6b-a1c3-4bd8-9499-68678f957085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-combobox-option-44&quot;)/span[@class=&quot;block truncate font-normal&quot;]</value>
+      <webElementGuid>d99b5859-d52d-40f6-b00e-a08fe5247ed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='headlessui-combobox-option-44']/span</value>
+      <webElementGuid>59c88c45-bf58-4d53-a484-5039a83239de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[2]/following::span[2]</value>
+      <webElementGuid>25b5616c-c654-45f6-8bd6-8d114b5b1be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operasinal'])[1]/following::span[3]</value>
+      <webElementGuid>a1728865-4a8c-4111-898e-cb1e81db2d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[1]</value>
+      <webElementGuid>7e5363b9-4950-4b4d-a3ac-08feaa47ad1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotation'])[2]/preceding::span[1]</value>
+      <webElementGuid>02ab70fb-da47-4ddd-bee5-02e9b09fa8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span</value>
+      <webElementGuid>16fc952b-6a2d-49b6-b6df-75c7bfe348a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Driver' or . = 'Driver')]</value>
+      <webElementGuid>e5c97acb-cefa-49f5-9c6c-a00acd5e998e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

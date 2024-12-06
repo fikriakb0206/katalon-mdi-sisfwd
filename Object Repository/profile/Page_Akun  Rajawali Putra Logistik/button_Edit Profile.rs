@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit Profile</name>
+   <tag></tag>
+   <elementGuidId>fb3ffa06-835e-427a-91c0-3d177a1a5050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7600584-4684-4241-8ba9-aac198f04397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ad0ea63-5012-4af1-8250-b1dd87ccfab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  bg-white text-secondary border-2 border-secondary-500 border-solid text-undefined hover:text-white hover:bg-secondary text-undefined</value>
+      <webElementGuid>f81be0c8-3da1-4f5a-a0e8-5c83eec690f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit Profile</value>
+      <webElementGuid>6da93490-cff7-4ab1-9971-d1f23db04489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;flex flex-col w-100 h-[100vh] overflow-hidden&quot;]/main[@class=&quot;bg-bg lg:flex  overflow-y-auto lg:overflow-hidden flex-grow relative&quot;]/section[@class=&quot;relative h-full flex flex-col lg:w-4/5&quot;]/div[@class=&quot;flex-grow overflow-y-auto py-5 sm:px-14&quot;]/form[@class=&quot;rounded-lg bg-white p-7 my-10 shadow-md&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;space-y-5&quot;]/div[@class=&quot;flex flex-col sm:flex-row justify-between pt-4 items-center&quot;]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  bg-white text-secondary border-2 border-secondary-500 border-solid text-undefined hover:text-white hover:bg-secondary text-undefined&quot;]</value>
+      <webElementGuid>002b3884-b6fc-40e7-b51a-985a209adcd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>57d087b5-d12f-4fb3-bf3c-cd767dffff2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/main/section/div/form/div/div[2]/div[10]/button</value>
+      <webElementGuid>4b057834-3d86-4ff8-9d1c-929eb07d87b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Pos'])[1]/following::button[1]</value>
+      <webElementGuid>f7e1db7d-ffcb-4395-8a81-1cfb6e678527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jl. Green Sedayu 7, Cakung Timur, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta'])[1]/following::button[1]</value>
+      <webElementGuid>a6974731-60f8-486e-8d7c-88c13c555233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/preceding::button[1]</value>
+      <webElementGuid>4f4f8fc0-75de-4711-a8ef-40a8f23d419f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::button[1]</value>
+      <webElementGuid>af093f70-484a-4a60-ad46-3b66cddeed08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Profile']/parent::*</value>
+      <webElementGuid>9cad60b0-18fb-4856-bbdd-e1d51eace966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button</value>
+      <webElementGuid>9225208e-9511-4ae6-9380-1853b6a9109a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Edit Profile' or . = ' Edit Profile')]</value>
+      <webElementGuid>a19bec9a-790d-496d-92eb-2efdb5838ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

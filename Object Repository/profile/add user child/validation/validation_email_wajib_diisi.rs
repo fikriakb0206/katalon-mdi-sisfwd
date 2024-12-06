@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>validation_email_wajib_diisi</name>
+   <tag></tag>
+   <elementGuidId>b7dd89eb-5d35-4802-bfbd-4a608abb4b02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[3]/span/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9c025f2f-c5ef-46cd-88f1-2c77fae17306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Wajib diisi</value>
+      <webElementGuid>88913eb4-d701-4c77-bbbd-34abdeb9ecc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-12&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[779px] p-8 bg-white rounded-xl&quot;]/form[1]/div[@class=&quot;flex flex-col sm:flex-row&quot;]/div[@class=&quot;w-full sm:w-3/4&quot;]/div[@class=&quot;mb-3&quot;]/span[@class=&quot;text-xs text-error&quot;]/p[1]</value>
+      <webElementGuid>21fd891a-c663-443b-811c-40f5786b3a07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[3]/span/p</value>
+      <webElementGuid>89fb9953-c70a-4003-84e2-5e8a9f0de55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[12]/following::p[1]</value>
+      <webElementGuid>79b7151f-40f9-4dc1-b7f4-775debe80be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::p[3]</value>
+      <webElementGuid>ad6a1a23-a7c2-473c-ba47-d600e463afdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::p[2]</value>
+      <webElementGuid>a6e19d99-21a5-4718-ab50-75a8211dc143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Wajib diisi minimal 6 Karakter'])[1]/preceding::p[2]</value>
+      <webElementGuid>e0993d7b-22e1-47b3-8ad7-7f925f519a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Wajib diisi']/parent::*</value>
+      <webElementGuid>bff9e3db-fd8d-493d-963c-81be2a7837ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/p</value>
+      <webElementGuid>fa271a48-5600-4482-b6bf-4c48b0d09c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Email Wajib diisi' or . = 'Email Wajib diisi')]</value>
+      <webElementGuid>8ee02c8b-9379-4717-ae5f-9f28b41efa31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

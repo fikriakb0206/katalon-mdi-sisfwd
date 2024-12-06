@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.wrong email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e435a6f-a970-4df6-9ce1-70b759d6c203</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2fbae7e-23c7-4744-b8aa-993828507be2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://trial.rpl.id/'</defaultValue>
+      <description></description>
+      <id>d2fbae7e-23c7-4744-b8aa-993828507be2</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

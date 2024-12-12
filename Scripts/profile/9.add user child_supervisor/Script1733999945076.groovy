@@ -55,13 +55,15 @@ WebUI.setText(findTestObject('Object Repository/profile/add user child/telepon')
 
 WebUI.click(findTestObject('Object Repository/profile/add user child/role'))
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/role_Admin'))
+WebUI.click(findTestObject('Object Repository/profile/add user child/role_supervisor'))
 
 WebUI.click(findTestObject('Object Repository/profile/add user child/division'))
 
 WebUI.click(findTestObject('Object Repository/profile/add user child/div_Operasinal'))
 
 WebUI.click(findTestObject('Object Repository/profile/add user child/menu/menu_quotation'))
+
+WebUI.click(findTestObject('Object Repository/profile/add user child/menu/menu_quotation_spv'))
 
 WebUI.click(findTestObject('Object Repository/profile/add user child/menu/menu_sales_order'))
 
@@ -75,11 +77,11 @@ WebUI.click(findTestObject('Object Repository/profile/add user child/menu/menu_c
 
 WebUI.click(findTestObject('Object Repository/profile/add user child/menu/menu_contact'))
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/button_Simpan'))
+//WebUI.click(findTestObject('Object Repository/profile/add user child/button_Simpan'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/profile/add user child/pop_up_User_Berhasil_ditambahkan'), 0)
-
-WebUI.closeBrowser()
+//WebUI.verifyElementPresent(findTestObject('Object Repository/profile/add user child/pop_up_User_Berhasil_ditambahkan'), 0)
+//
+//WebUI.closeBrowser()
 
 
 

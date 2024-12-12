@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToMaskedUrl(url)
+WebUI.navigateToUrl(url)
 
 WebUI.delay(2)
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 3)
+WebUI.waitForElementClickable(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'))
 
@@ -35,21 +35,12 @@ WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra Logistik/button_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/profile/Page_Akun  Rajawali Putra Logistik/menu_akun_staff'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Dashboard  Rajawali Putra Logistik/h1_Dashboard'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/profile/upload avatar/button_Ubah Foto'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard  Rajawali Putra Logistik/logout'))
 
-WebUI.uploadFile(findTestObject('Object Repository/profile/upload avatar/input_Browse_avatar'), foto)
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('Object Repository/profile/upload avatar/button_Simpan_avatar'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard  Rajawali Putra Logistik/logout_button_Yes'))
 
 WebUI.closeBrowser()
-
-
-
-
-
-
 

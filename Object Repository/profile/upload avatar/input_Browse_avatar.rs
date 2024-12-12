@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Browse_avatar</name>
    <tag></tag>
-   <elementGuidId>5b9d8319-0024-426e-a65b-7ff08d6eafc6</elementGuidId>
+   <elementGuidId>512d8dbc-275c-4c58-a521-461533c2ed2e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>430879bf-2b80-400c-95ed-37a6bb9cc85d</webElementGuid>
+      <webElementGuid>4ecb43d3-04e0-4bb8-bb52-ff505181383a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>name</name>
       <type>Main</type>
       <value>avatar</value>
-      <webElementGuid>cb54425d-9d28-4ec4-b6c7-263a52f4f6c2</webElementGuid>
+      <webElementGuid>926b8baf-8a6e-4703-bb53-2c08a21d0a68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>ac60228d-d6b1-44b9-99e7-46d705c5f83f</webElementGuid>
+      <webElementGuid>ee4743ea-72a4-4297-b632-e966afde6223</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full absolute h-[80%] opacity-0 cursor-pointer top-0</value>
-      <webElementGuid>7ab66f64-21fd-4da5-89fa-6a3e35968487</webElementGuid>
+      <webElementGuid>1363cdf0-6d50-4630-ae91-cdb3fea45849</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>image/*</value>
-      <webElementGuid>ac70d959-9319-4e04-8c09-7e6fc44f2218</webElementGuid>
+      <webElementGuid>9a503b2b-4bbd-48fe-adbc-8450c5a45089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-dialog-12&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[579px] p-8 bg-white rounded-xl&quot;]/form[1]/section[1]/div[@class=&quot;bg-bg rounded-xl min-h-[190px] flex flex-col justify-center items-center text-label relative border-[1px] border-dashed border-placeholder&quot;]/input[@class=&quot;w-full absolute h-[80%] opacity-0 cursor-pointer top-0&quot;]</value>
-      <webElementGuid>9883a188-a7dd-4950-a247-640ff16a17fe</webElementGuid>
+      <webElementGuid>cb7671ec-adf1-4ff4-9e8f-42114e6e2fc1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='avatar']</value>
-      <webElementGuid>a5d96419-4409-4bae-8115-f4dffcc38498</webElementGuid>
+      <webElementGuid>bb59330d-0b60-4981-b3f5-4c8f71f6e1d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/section/div/input[2]</value>
-      <webElementGuid>1119be71-2053-404c-81d9-c2b99453aa0a</webElementGuid>
+      <webElementGuid>8d0b06f2-bd90-47f7-b356-2dd2a70ffbae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>c5e4fe63-7513-4451-92cc-a397a20b8beb</webElementGuid>
+      <webElementGuid>e92a2d53-5c06-40a9-9b12-b56f012fa9ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'avatar' and @type = 'file']</value>
-      <webElementGuid>b6e27d8c-1652-4445-ab08-1ccde112842a</webElementGuid>
+      <webElementGuid>88bd5595-3d10-4c40-b6de-334a925f94e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

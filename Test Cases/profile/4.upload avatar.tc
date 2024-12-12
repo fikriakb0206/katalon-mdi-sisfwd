@@ -30,6 +30,12 @@
       <value></value>
       <variableId>2b6c1dff-4078-4ca8-8037-68ed2f629759</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dbfa9428-1b2a-4c88-a689-ced85f0b35a5</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'//Users//fikriakbar//Documents//MDI//Test Image File//logo.0ba5f230d17843d94285.png'</defaultValue>
       <description></description>
@@ -57,5 +63,12 @@
       <id>2b6c1dff-4078-4ca8-8037-68ed2f629759</id>
       <masked>false</masked>
       <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'/Users/fikriakbar/Documents/MDI/Test Image File/logo.0ba5f230d17843d94285.png'</defaultValue>
+      <description></description>
+      <id>dbfa9428-1b2a-4c88-a689-ced85f0b35a5</id>
+      <masked>false</masked>
+      <name>foto</name>
    </variable>
 </TestCaseEntity>

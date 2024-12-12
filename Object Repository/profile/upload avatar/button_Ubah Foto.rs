@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Ubah Foto</name>
    <tag></tag>
-   <elementGuidId>44423693-9110-49ff-b245-18ce9593d80a</elementGuidId>
+   <elementGuidId>cf477d05-f4cf-41b2-8f1c-66d3f6b97030</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>61fa538d-b756-41be-9cf0-a536e97c7543</webElementGuid>
+      <webElementGuid>e03f3a18-c26b-4d53-883b-c372f8c65f70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b3a3b5bb-ddfb-489e-bde3-a60ab6b92faa</webElementGuid>
+      <webElementGuid>78e3f993-bcea-4feb-95c6-e0cf6b633ba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mt-5 text-m text-secondary text-left</value>
-      <webElementGuid>5af245a5-465c-4682-b00c-4659c6759d1a</webElementGuid>
+      <webElementGuid>48eedead-7998-4d3d-b21e-68de77b8a7d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ubah Foto</value>
-      <webElementGuid>c5cbd6b5-d889-483b-9f97-61920f4ee292</webElementGuid>
+      <webElementGuid>e9b3b6e8-5968-4198-a468-481a30686e98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/section[@class=&quot;flex flex-col w-100 h-[100vh] overflow-hidden&quot;]/main[@class=&quot;bg-bg lg:flex  overflow-y-auto lg:overflow-hidden flex-grow relative&quot;]/section[@class=&quot;relative h-full flex flex-col lg:w-4/5&quot;]/div[@class=&quot;flex-grow overflow-y-auto py-5 sm:px-14&quot;]/form[@class=&quot;rounded-lg bg-white p-7 my-10 shadow-md&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;relative pr-0 sm:pr-10&quot;]/button[@class=&quot;mt-5 text-m text-secondary text-left&quot;]</value>
-      <webElementGuid>b8ecaa30-75cb-4459-b23f-84251b19cb46</webElementGuid>
+      <webElementGuid>f6044e48-bebc-43ab-82dd-b5dbbcf231ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>d0e86478-5dee-45a9-bcec-53ee6a77ee26</webElementGuid>
+      <webElementGuid>bc2ea41f-32c7-426e-9f69-f119d38c8131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/section/main/section/div/form/div/div/button</value>
-      <webElementGuid>58108d18-c004-44ee-a5b5-646032228cdd</webElementGuid>
+      <webElementGuid>8c981476-d94b-4796-a6f4-a3216f88da61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Akun'])[1]/following::button[1]</value>
-      <webElementGuid>818c47bb-1fa0-4c91-9f16-a8b6bc1505de</webElementGuid>
+      <webElementGuid>21bf47fb-7906-41b3-b227-8b1d156e5c1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::button[1]</value>
-      <webElementGuid>cd1d55c7-1846-4c9f-8429-19308f2a6c39</webElementGuid>
+      <webElementGuid>af17e693-8568-492a-8b47-02c10504a249</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::button[1]</value>
-      <webElementGuid>542ab9b5-ff11-4e0a-ae95-2f1b318af5b9</webElementGuid>
+      <webElementGuid>8ac59dae-1cc4-4ba0-884d-8c1949259c02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::button[1]</value>
-      <webElementGuid>78ac00bf-8773-4a33-ac52-dbc11d33d775</webElementGuid>
+      <webElementGuid>d280f73c-bdc9-4fe5-855f-b9aa36848d6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ubah Foto']/parent::*</value>
-      <webElementGuid>5baca6ac-25c3-4093-a282-40642a1adf45</webElementGuid>
+      <webElementGuid>3ee39472-06b8-424f-b44f-f1eed856cedd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/button</value>
-      <webElementGuid>c1cf1df3-36f7-495b-92fb-c544e2a86a89</webElementGuid>
+      <webElementGuid>11362e9b-b7db-4667-bf25-f24fe181c5ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,14 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Ubah Foto' or . = 'Ubah Foto')]</value>
-      <webElementGuid>71993ca9-47e5-47a4-b1c5-4d150404b281</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JT'])[1]/following::button[1]</value>
-      <webElementGuid>6d6f999d-8776-4000-b03e-ff9500806fac</webElementGuid>
+      <webElementGuid>a7eaed97-8708-49b1-b557-feaf34d67294</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

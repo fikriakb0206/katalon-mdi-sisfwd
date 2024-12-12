@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(url)
 
+WebUI.delay(2)
+
 WebUI.waitForElementClickable(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
 
 WebUI.click(findTestObject('Login/Page_Home  Rajawali Putra Logistik/x_pop_up'))

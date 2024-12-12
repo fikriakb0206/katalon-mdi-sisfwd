@@ -21,7 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToMaskedUrl(url)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
+WebUI.delay(2)
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'))
 
@@ -77,7 +79,7 @@ WebUI.click(findTestObject('Object Repository/profile/add user child/button_Simp
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/profile/add user child/validation_The email has already been taken'), 0)
 
-
+WebUI.closeBrowser()
 
 
 

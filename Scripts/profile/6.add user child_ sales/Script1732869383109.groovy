@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToMaskedUrl(url)
 
+WebUI.delay(2)
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'))
@@ -76,6 +78,8 @@ WebUI.click(findTestObject('Object Repository/profile/add user child/menu/menu_c
 WebUI.click(findTestObject('Object Repository/profile/add user child/button_Simpan'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/profile/add user child/pop_up_User_Berhasil_ditambahkan'), 0)
+
+WebUI.closeBrowser()
 
 
 

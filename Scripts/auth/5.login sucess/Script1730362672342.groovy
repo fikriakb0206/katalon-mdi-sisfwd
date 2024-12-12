@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://trial.rpl.id/landing/index.html')
+WebUI.navigateToUrl(url)
+
+WebUI.delay(2)
 
 WebUI.waitForElementClickable(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
 

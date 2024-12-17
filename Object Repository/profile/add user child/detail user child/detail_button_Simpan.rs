@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk</name>
+   <name>detail_button_Simpan</name>
    <tag></tag>
-   <elementGuidId>aa608b40-88ea-402a-b48f-788844101845</elementGuidId>
+   <elementGuidId>5e7d47c6-794d-43a9-8a45-5cfc2f4a2bf6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>96007421-8617-48af-ad8a-93567add3db6</webElementGuid>
+      <webElementGuid>b26d01f8-271f-4405-99ea-40a0304cc0fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>88a0e1da-d1d5-4445-be61-e50c465e7915</webElementGuid>
+      <webElementGuid>7b4df52e-9e7f-4228-bba4-925720505a56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined justify-center hover:bg-white hover:text-secondary text-undefined </value>
-      <webElementGuid>56c0bbb7-74cc-4d89-a0b0-01c31fd5a2da</webElementGuid>
+      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined w-full sm:w-auto xs:justify-center hover:bg-white hover:text-secondary text-undefined </value>
+      <webElementGuid>f9ba1adb-80a0-4722-9c96-9ee693e05fe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>5dae9537-3bc7-45ca-80af-3204a15a9dff</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>7ea134b8-a7c6-4c9f-a229-d4dcf98b6f86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/main[@class=&quot;dashboard-content bg-bg pt-28 flex&quot;]/div[@class=&quot;w-full sm:grid grid-cols-2&quot;]/div[@class=&quot;p-5&quot;]/div[@class=&quot;w-full sm:h-full flex justify-center items-center&quot;]/div[@class=&quot;bg-white border-[1px] border-solid border-line rounded-xl shadow-low px-3 lg:px-6 py-6  w-full border-[1px] p-5 lg:w-5/6&quot;]/form[1]/div[@class=&quot;flex flex-col text-center mb-6&quot;]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined justify-center hover:bg-white hover:text-secondary text-undefined&quot;]</value>
-      <webElementGuid>7086eeb2-8eff-4de9-91b3-be726724f10a</webElementGuid>
+      <value>id(&quot;headlessui-dialog-12&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[579px] p-8 bg-white rounded-xl&quot;]/form[1]/div[@class=&quot;flex flex-col sm:flex-row&quot;]/div[@class=&quot;w-full sm:w-3/4&quot;]/div[@class=&quot;flex flex-col gap-3 sm:gap-0 sm:flex-row sm:items-center sm:justify-center&quot;]/div[2]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined w-full sm:w-auto xs:justify-center hover:bg-white hover:text-secondary text-undefined&quot;]</value>
+      <webElementGuid>752df601-f88c-409c-8341-c9d160d9a14f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,54 +63,54 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>22351f42-7ed3-4fa9-a399-38b21259fc7b</webElementGuid>
+      <webElementGuid>2479dfcd-6c9f-49cf-9e7e-a3fe39d23d72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/main/div/div/div/div/form/div[3]/button</value>
-      <webElementGuid>1507477a-34e1-4cd8-9714-aff5710cc183</webElementGuid>
+      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[8]/div[2]/button</value>
+      <webElementGuid>69d42403-77d5-4d92-b207-e52f611d75d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/following::button[1]</value>
-      <webElementGuid>69844e0f-072e-4874-8166-4762ba5b96f4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
+      <webElementGuid>04a6995e-75e7-4226-ad3b-da84447829ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>63b5f052-e389-4fe3-a8c7-a18c1b7f085c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Agent Report'])[1]/following::button[2]</value>
+      <webElementGuid>6e0ebba5-f20a-4123-bf80-2a0c86097c0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::button[1]</value>
-      <webElementGuid>4adc063b-82be-4c1e-a5b3-9d622cc94cfb</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>633f66ff-fd39-4a0b-a6d3-1f9cd2b73342</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>39e29971-5c38-4580-9432-d4ee819cbb5c</webElementGuid>
+      <value>//div[8]/div[2]/button</value>
+      <webElementGuid>919ccb33-6512-4c7a-9ea1-01ba7794ee1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>ef4ee915-ec18-4a6f-9c31-39eaccddd24b</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>5fb666fd-b62b-4091-9423-6f293485562d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

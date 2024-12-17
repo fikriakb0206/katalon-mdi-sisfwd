@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>profile_TC_5_add_user_child _ check validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c3c9bb6-b0b7-4d08-baca-7f0387edd316</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea330e37-bf4a-48e9-bb40-84696e7ef945</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d9f8241-07b6-4cfa-a41e-5652b69b48c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e91b909b-c1ab-4e7b-bc8b-09c1de3721b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rplkeysuper@gmail.com'</defaultValue>
+      <description></description>
+      <id>ea330e37-bf4a-48e9-bb40-84696e7ef945</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'RPLsup3r2024!'</defaultValue>
+      <description></description>
+      <id>9d9f8241-07b6-4cfa-a41e-5652b69b48c5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://trial.rpl.id/'</defaultValue>
+      <description></description>
+      <id>e91b909b-c1ab-4e7b-bc8b-09c1de3721b7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

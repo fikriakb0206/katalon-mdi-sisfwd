@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>role_supervisor</name>
+   <name>detail_office</name>
    <tag></tag>
-   <elementGuidId>a671dc17-30f9-4af7-9067-1fa1c0546deb</elementGuidId>
+   <elementGuidId>74253c1a-a545-4be6-9198-d961af5e11d0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul/li[7]</value>
+         <value>//body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/input[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#headlessui-combobox-option-62 > span.block.truncate.font-normal</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>d03ddb32-e2f6-45eb-bea0-56ff0ea6a7c7</webElementGuid>
+      <value>div</value>
+      <webElementGuid>12154f3d-d308-4f56-acca-823b1bd7d5ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>block truncate font-normal</value>
-      <webElementGuid>20d2931d-3763-4231-bad5-5649f62a9e2e</webElementGuid>
+      <value>mb-4</value>
+      <webElementGuid>0cf21cc4-8656-4a84-bc7e-8c41684b4cc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Supervisor</value>
-      <webElementGuid>4606f9a0-5492-4244-8196-f239553c9687</webElementGuid>
+      <value>Office</value>
+      <webElementGuid>31396720-ff2c-4340-913e-8bdc2207b48f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-combobox-option-62&quot;)/span[@class=&quot;block truncate font-normal&quot;]</value>
-      <webElementGuid>e62f7fb9-3fe7-440c-bc81-36a16bc6448b</webElementGuid>
+      <value>id(&quot;headlessui-dialog-12&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[579px] p-8 bg-white rounded-xl&quot;]/form[1]/div[@class=&quot;flex flex-col sm:flex-row&quot;]/div[@class=&quot;w-full sm:w-3/4&quot;]/div[@class=&quot;mb-4&quot;]</value>
+      <webElementGuid>90ab1212-b52f-4435-82bb-2ea504671276</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='headlessui-combobox-option-62']/span</value>
-      <webElementGuid>fc3a85c5-226b-4722-a0ab-ad161c85f2f0</webElementGuid>
+      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div</value>
+      <webElementGuid>bc69142d-6f09-4f6c-8c31-f782580c9a95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[4]/following::span[2]</value>
-      <webElementGuid>2319840b-c0a0-4009-bf08-da77d28b5c0b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER'])[1]/following::div[2]</value>
+      <webElementGuid>192fd943-0e33-4ca5-8879-d3109e61350e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driver'])[4]/following::span[3]</value>
-      <webElementGuid>ccd655eb-478d-44ce-8cde-fc0a02af9a1e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail User'])[1]/following::div[5]</value>
+      <webElementGuid>2d6857dd-bf80-4533-852a-54b353b7503b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[1]</value>
-      <webElementGuid>7e12de83-24f5-4a07-beff-8e4cad1b9e8c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::div[4]</value>
+      <webElementGuid>bbc3b37d-0e96-4b7f-9c91-a87d95c5bb19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotation'])[2]/preceding::span[1]</value>
-      <webElementGuid>afc4c0b0-d605-4906-b3a1-8a38d3ea06c6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Supervisor']/parent::*</value>
-      <webElementGuid>fd8bfe49-0974-4baa-84de-3d8f5c178f47</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[12]/preceding::div[5]</value>
+      <webElementGuid>ce50b224-d3d9-414a-96f7-65b6475ec6da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[7]/span</value>
-      <webElementGuid>1cb67002-7b3c-4d4b-a49e-f44d8b59ad7f</webElementGuid>
+      <value>//div[2]/div/form/div/div[2]/div</value>
+      <webElementGuid>30bcd634-1243-42d7-bbfd-58f7de7ce355</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Supervisor' or . = 'Supervisor')]</value>
-      <webElementGuid>efc0a660-713c-406b-bbc5-a23c5b5587a0</webElementGuid>
+      <value>//div[(text() = 'Office' or . = 'Office')]</value>
+      <webElementGuid>9dab7f54-9928-4d16-bd26-74be97fdbe39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

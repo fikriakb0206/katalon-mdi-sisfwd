@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>menu_report</name>
+   <name>detail_role</name>
    <tag></tag>
-   <elementGuidId>a1ce72c9-74ef-4b54-b0fa-fcc8e0cab9de</elementGuidId>
+   <elementGuidId>24839774-737e-45a7-87a1-06c333d28ee9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[7]/div[38]/input[1]</value>
+         <value>//input[@id='headlessui-combobox-input-19']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mQuotation-36</value>
+         <value>#headlessui-combobox-input-19</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8faa0856-43f3-4187-9fcc-6ccb1135cb93</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>53ae3ed6-1f42-46dc-a52c-07f6232de547</webElementGuid>
+      <webElementGuid>2f83825f-accb-43b9-9bb8-b4775a9fef6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>mQuotation-36</value>
-      <webElementGuid>c3df4a4e-df45-42f5-bf47-bca5b4eebbd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-checkbox w-6 h-6 rounded-md mr-4 form-check appearance-none checked:border-0 checked:bg-secondary border-2 border-placeholder</value>
-      <webElementGuid>734e8713-e77e-4fe5-bd27-3f52c45d7f77</webElementGuid>
+      <value>headlessui-combobox-input-19</value>
+      <webElementGuid>350e8a7d-e86c-4816-bd5e-70291160aeb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>accessbility</value>
-      <webElementGuid>47b316b7-a988-47b1-b277-84b0c58f8cbf</webElementGuid>
+      <value>role</value>
+      <webElementGuid>02dc9b8a-ae5c-46e9-9109-053ccfd54ae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value>53</value>
-      <webElementGuid>ac86c43a-8a4e-4798-ae08-7a29fb9e6463</webElementGuid>
+      <value>w-full text-left border-2 border-line rounded-xl p-4 text-s text-label bg-bg mb-3</value>
+      <webElementGuid>40cbcaf3-8ca7-48a7-aff2-6cafeb997cd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Role</value>
+      <webElementGuid>b6bc4585-d19b-4de4-9e4f-2d0003c62d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>combobox</value>
+      <webElementGuid>91182a9f-f440-428d-ab69-faf42a984537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dd618a6f-0d97-4c36-b8d9-2a38656a43cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mQuotation-36&quot;)</value>
-      <webElementGuid>545f7a58-82a1-4f22-bdda-c2997c42fc80</webElementGuid>
+      <value>id(&quot;headlessui-combobox-input-19&quot;)</value>
+      <webElementGuid>a24bf51b-5cda-49f2-aab0-b40654e489d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mQuotation-36']</value>
-      <webElementGuid>8f43df35-bb3b-4778-8686-ba69c2f5e533</webElementGuid>
+      <value>//input[@id='headlessui-combobox-input-19']</value>
+      <webElementGuid>2fe0df37-4e4f-49f1-acad-e0bedc6cc3f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[9]/div[37]/input</value>
-      <webElementGuid>e5c81470-59ca-46ea-9a85-7f62829601ce</webElementGuid>
+      <value>//button[@id='headlessui-combobox-button-18']/input</value>
+      <webElementGuid>0a49c081-d782-4217-b593-7bd66df3a90c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[37]/input</value>
-      <webElementGuid>1d661e80-9fb6-4300-89fa-eccb93ac141c</webElementGuid>
+      <value>//div[2]/div/form/div/div[2]/div[5]/div/div/button/input</value>
+      <webElementGuid>37363352-9b2a-4c12-a4ca-c9cc0d1c962c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'mQuotation-36' and @name = 'accessbility']</value>
-      <webElementGuid>3caadcfc-802a-4177-8b91-942ad12fe9c5</webElementGuid>
+      <value>//input[@id = 'headlessui-combobox-input-19' and @name = 'role' and @placeholder = 'Role' and @type = 'text']</value>
+      <webElementGuid>a67b6134-f9ad-4bd3-81e8-1cc7f22d2f1b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

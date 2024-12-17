@@ -19,28 +19,31 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://trial.rpl.id/landing/index.html')
+WebUI.navigateToMaskedUrl(url)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/img'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/span_'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'), 0)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/button_Login'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/x_pop_up'))
 
-WebUI.setText(findTestObject('Object Repository/profile/add user child/mentahan/input_Email_email'), 'rplkeysuper@gmail.com')
+WebUI.click(findTestObject('Object Repository/Login/Page_Home  Rajawali Putra Logistik/button_Login'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/profile/add user child/mentahan/input_Lupa Password_password'), 
-    'wp1F1Z7fk3D1p8vGoyZBqQ==')
+WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra Logistik/username'), username)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/button_Masuk'))
+WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra Logistik/password'), password)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/a_Akun Staff'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra Logistik/button_Masuk'))
 
-WebUI.setText(findTestObject('Object Repository/profile/add user child/mentahan/input_Ubah Password_search'), 'sales')
+WebUI.click(findTestObject('Object Repository/profile/Page_Akun  Rajawali Putra Logistik/menu_akun_staff'))
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/a_Detail'))
+WebUI.setText(findTestObject('Object Repository/profile/search_user'), sales)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/mentahan/button_Edit'))
+WebUI.delay(1)
 
-WebUI.setText(findTestObject('Object Repository/profile/add user child/detail user child/detail_telepon'), '6221750103812')
+WebUI.verifyElementText(findTestObject('Object Repository/profile/list_user'), user_sales)
+
+WebUI.closeBrowser()
+
+
 

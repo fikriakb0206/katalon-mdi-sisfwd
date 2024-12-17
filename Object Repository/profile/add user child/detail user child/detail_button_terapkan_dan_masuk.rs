@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk</name>
+   <name>detail_button_terapkan_dan_masuk</name>
    <tag></tag>
-   <elementGuidId>aa608b40-88ea-402a-b48f-788844101845</elementGuidId>
+   <elementGuidId>3cfe0240-385d-4471-ab46-defd13aa6763</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>96007421-8617-48af-ad8a-93567add3db6</webElementGuid>
+      <webElementGuid>01e49426-e24d-40a0-9f77-08212d48f3ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>88a0e1da-d1d5-4445-be61-e50c465e7915</webElementGuid>
+      <webElementGuid>a93b9e81-37a7-43c2-82f1-d8aaf3367f2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined justify-center hover:bg-white hover:text-secondary text-undefined </value>
-      <webElementGuid>56c0bbb7-74cc-4d89-a0b0-01c31fd5a2da</webElementGuid>
+      <value> px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined w-full justify-center hover:bg-white hover:text-secondary text-undefined </value>
+      <webElementGuid>e24b44fb-98da-4695-8d5a-2c2d2dd9f50f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>5dae9537-3bc7-45ca-80af-3204a15a9dff</webElementGuid>
+      <value>Terapkan dan Masuk</value>
+      <webElementGuid>e265f750-1e0d-40ba-893f-490fd26f7c7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/main[@class=&quot;dashboard-content bg-bg pt-28 flex&quot;]/div[@class=&quot;w-full sm:grid grid-cols-2&quot;]/div[@class=&quot;p-5&quot;]/div[@class=&quot;w-full sm:h-full flex justify-center items-center&quot;]/div[@class=&quot;bg-white border-[1px] border-solid border-line rounded-xl shadow-low px-3 lg:px-6 py-6  w-full border-[1px] p-5 lg:w-5/6&quot;]/form[1]/div[@class=&quot;flex flex-col text-center mb-6&quot;]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined justify-center hover:bg-white hover:text-secondary text-undefined&quot;]</value>
-      <webElementGuid>7086eeb2-8eff-4de9-91b3-be726724f10a</webElementGuid>
+      <value>id(&quot;headlessui-dialog-23&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;container max-w-screen-xl mx-auto flex sm:px-10 2xl:px-0 justify-center py-24&quot;]/div[@class=&quot;bg-white border-[1px] border-solid border-line rounded-xl shadow-low px-3 lg:px-6 py-6 w-[494px] mx-auto&quot;]/form[1]/button[@class=&quot;px-3 lg:px-6 max-h-[56px] py-2 text-m font-semibold rounded-lg transition duration-150 flex items-center group  border-2 border-secondary-500 border-solid bg-secondary text-white text-undefined w-full justify-center hover:bg-white hover:text-secondary text-undefined&quot;]</value>
+      <webElementGuid>ba3913b9-f2fb-4f29-b55b-273c38069cc5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,23 +63,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>22351f42-7ed3-4fa9-a399-38b21259fc7b</webElementGuid>
+      <webElementGuid>815c0569-3a79-4aee-98db-859ce4ef2342</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/main/div/div/div/div/form/div[3]/button</value>
-      <webElementGuid>1507477a-34e1-4cd8-9714-aff5710cc183</webElementGuid>
+      <value>//div[@id='headlessui-dialog-23']/div/div[2]/div/div/form/button</value>
+      <webElementGuid>da210f76-46d6-48ef-8ee9-df403a9040e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/following::button[1]</value>
-      <webElementGuid>69844e0f-072e-4874-8166-4762ba5b96f4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Password'])[1]/following::button[1]</value>
+      <webElementGuid>50984feb-9032-4165-afdb-47e1b927568f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,30 +87,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>63b5f052-e389-4fe3-a8c7-a18c1b7f085c</webElementGuid>
+      <webElementGuid>e8694efe-4048-483a-bdc9-ba706a8c67f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::button[1]</value>
-      <webElementGuid>4adc063b-82be-4c1e-a5b3-9d622cc94cfb</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Terapkan dan Masuk']/parent::*</value>
+      <webElementGuid>b7d9b891-7f54-4c0d-8093-cb07c93ec731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>39e29971-5c38-4580-9432-d4ee819cbb5c</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>d242cf02-1ced-430e-adf6-340a0d5e406d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>ef4ee915-ec18-4a6f-9c31-39eaccddd24b</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Terapkan dan Masuk' or . = 'Terapkan dan Masuk')]</value>
+      <webElementGuid>43d5d305-9778-4394-a5fb-0f80f62d3b1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

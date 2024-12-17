@@ -15,7 +15,7 @@
       <guid>c196c9e2-3e2c-49e2-a413-1ac92265762d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/auth/1.Check Mandatory Login</testCaseId>
+      <testCaseId>Test Cases/auth/auth_TC_1_Check_Mandatory_Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -28,7 +28,7 @@
       <guid>0973d4fd-caa1-4aff-8fed-d540d6997633</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/auth/2.wrong email</testCaseId>
+      <testCaseId>Test Cases/auth/auth_TC_2_wrong_email</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -41,7 +41,7 @@
       <guid>30fa4d32-4fbd-42cb-9404-b4c64bec68d7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/auth/3.wrong password</testCaseId>
+      <testCaseId>Test Cases/auth/auth_TC_3_wrong_password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -54,7 +54,7 @@
       <guid>02aa374c-f177-41f1-8aad-35618c6f52d3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/auth/4.view password</testCaseId>
+      <testCaseId>Test Cases/auth/auth_TC_4_view_password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -67,7 +67,7 @@
       <guid>f69beadf-cd7b-4c46-8091-33a5dfaad9a2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/auth/5.login sucess</testCaseId>
+      <testCaseId>Test Cases/auth/auth_TC_5_login_sucess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

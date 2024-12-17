@@ -6,12 +6,12 @@
    <elementGuidId>c00b274d-037b-4797-af3b-7f3c4173d5a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@id='email']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@id='email'])[2]</value>
+         <key>CSS</key>
+         <value>#email</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,23 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>390d6dfe-5815-425c-98bb-dd8de606c770</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>5d9c375f-aa71-46ac-b63e-f3c7c0f6b503</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>ed9925d4-dcd2-4014-8344-e2737b91bbab</webElementGuid>
+      <webElementGuid>7637f364-61dc-47b9-b39f-1f558278fda9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +31,23 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cf095aaa-b35f-4a90-913a-00db20ce3a45</webElementGuid>
+      <webElementGuid>ec8f6411-4e3f-4e2d-ab9b-cb3d4f754541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>96b5f17d-328b-4f69-9df0-50da3ae64dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>e7975acd-4a33-473b-881f-c16acc165c2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,54 +55,54 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>749f6e2c-5b92-41c8-b355-da1fb829e841</webElementGuid>
+      <webElementGuid>45b5ebce-f492-4c2b-a274-4e1bf648b4f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mt-1 h-14 w-full rounded-xl pr-4 focus:outline-[1px]  focus:outline-secondary bg-white  border-line border-2 pl-4</value>
-      <webElementGuid>2ebf7279-a6a9-477e-a76f-aa9077783dde</webElementGuid>
+      <value>mt-1 h-14 w-full rounded-xl pr-4 focus:outline-[1px]  focus:outline-secondary bg-white  border-line border-2 pl-14</value>
+      <webElementGuid>b85c51c3-2879-47f8-b0e7-e3f28156c74a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-dialog-12&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[779px] p-8 bg-white rounded-xl&quot;]/form[1]/div[@class=&quot;flex flex-col sm:flex-row&quot;]/div[@class=&quot;w-full sm:w-3/4&quot;]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;text-label focus-within:text-label relative block&quot;]/input[@id=&quot;email&quot;]</value>
-      <webElementGuid>f8a2607c-6990-4c8e-a3a7-a300a8e4ac0e</webElementGuid>
+      <value>id(&quot;email&quot;)</value>
+      <webElementGuid>ed16607f-7043-44a8-a374-e15012c53442</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@id='email'])[2]</value>
-      <webElementGuid>b360ea3b-f2b7-4ac9-9bb4-58e02fe743c2</webElementGuid>
+      <value>//input[@id='email']</value>
+      <webElementGuid>65a9b4e8-c81a-4a52-8780-59fa95e64bda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[3]/label/input</value>
-      <webElementGuid>a0accb24-1fd8-455f-8896-3ca96b643b7f</webElementGuid>
+      <value>//div[@id='__next']/main/div/div/div/div/form/div/div/label/input</value>
+      <webElementGuid>23f78d92-cdcc-49f8-b55d-9a2c947ba568</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div/div[2]/div[3]/label/input</value>
-      <webElementGuid>dd13e03c-9107-4d36-a6e4-ddd8ffdf2ae5</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>869c14f9-748e-46b1-af06-d19a13c0649b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'email' and @id = 'email' and @type = 'text' and @placeholder = 'Email']</value>
-      <webElementGuid>09619eb1-c174-4cee-b1de-01d109d790f4</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'email' and @id = 'email' and @placeholder = 'Email']</value>
+      <webElementGuid>983e3af1-30b7-4c29-a085-13ce7cf2ea11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

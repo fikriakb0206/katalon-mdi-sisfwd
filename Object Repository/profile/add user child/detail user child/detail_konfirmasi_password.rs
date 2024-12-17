@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>menu_report</name>
+   <name>detail_konfirmasi_password</name>
    <tag></tag>
-   <elementGuidId>a1ce72c9-74ef-4b54-b0fa-fcc8e0cab9de</elementGuidId>
+   <elementGuidId>0c765cca-ca60-45ce-9db7-e58ed655d076</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[7]/div[38]/input[1]</value>
+         <value>//input[@id='password_confirmation']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mQuotation-36</value>
+         <value>#password_confirmation</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8faa0856-43f3-4187-9fcc-6ccb1135cb93</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>53ae3ed6-1f42-46dc-a52c-07f6232de547</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>mQuotation-36</value>
-      <webElementGuid>c3df4a4e-df45-42f5-bf47-bca5b4eebbd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-checkbox w-6 h-6 rounded-md mr-4 form-check appearance-none checked:border-0 checked:bg-secondary border-2 border-placeholder</value>
-      <webElementGuid>734e8713-e77e-4fe5-bd27-3f52c45d7f77</webElementGuid>
+      <webElementGuid>ed33341c-16df-42da-8c8e-4ef05883a800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>accessbility</value>
-      <webElementGuid>47b316b7-a988-47b1-b277-84b0c58f8cbf</webElementGuid>
+      <value>password_confirmation</value>
+      <webElementGuid>6bd7d442-0519-4b97-a841-c73346f8547d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>cf60e371-d244-4448-b5db-196b1ec3af37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password_confirmation</value>
+      <webElementGuid>ae6b2eed-f985-42cc-bb6d-76b9c25a889b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value>53</value>
-      <webElementGuid>ac86c43a-8a4e-4798-ae08-7a29fb9e6463</webElementGuid>
+      <value>bg-white border-2 border-line rounded-xl  pr-4 h-14  focus:outline-none w-full undefined pl-4</value>
+      <webElementGuid>8d4f62dc-2310-4b30-a75a-4c95722fb5f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mQuotation-36&quot;)</value>
-      <webElementGuid>545f7a58-82a1-4f22-bdda-c2997c42fc80</webElementGuid>
+      <value>id(&quot;password_confirmation&quot;)</value>
+      <webElementGuid>b68ee0ac-06ea-4e91-8b16-2a219f499bec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mQuotation-36']</value>
-      <webElementGuid>8f43df35-bb3b-4778-8686-ba69c2f5e533</webElementGuid>
+      <value>//input[@id='password_confirmation']</value>
+      <webElementGuid>1effa5c7-9961-4906-9546-07861d8c906f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[9]/div[37]/input</value>
-      <webElementGuid>e5c81470-59ca-46ea-9a85-7f62829601ce</webElementGuid>
+      <value>//div[@id='headlessui-dialog-23']/div/div[2]/div/div/form/div[2]/label/input</value>
+      <webElementGuid>461f0660-8003-4b53-898a-6143af453209</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[37]/input</value>
-      <webElementGuid>1d661e80-9fb6-4300-89fa-eccb93ac141c</webElementGuid>
+      <value>//form/div[2]/label/input</value>
+      <webElementGuid>a882edf2-f760-41df-97e0-7b04d37b56f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'mQuotation-36' and @name = 'accessbility']</value>
-      <webElementGuid>3caadcfc-802a-4177-8b91-942ad12fe9c5</webElementGuid>
+      <value>//input[@name = 'password_confirmation' and @type = 'password' and @id = 'password_confirmation']</value>
+      <webElementGuid>707e8334-0412-4a4f-aa3a-55f0926479a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

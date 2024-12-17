@@ -6,12 +6,12 @@
    <elementGuidId>bfeaddf2-ba11-4d5f-b94e-7156f2b0ea18</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada yang bisa kami bantu ?'])[1]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>374d5e4b-e096-48ed-959a-aa855be5920c</webElementGuid>
+      <webElementGuid>2155847a-0135-49bf-b61e-7c7afa79022e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6422ee15-d4f7-464b-8589-38766d94dfec</webElementGuid>
+      <webElementGuid>927e1ef8-ccf7-4e4b-b972-e1379463c6d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>×</value>
-      <webElementGuid>4bb20c68-a9c9-41ef-89f9-d4a4f1d05829</webElementGuid>
+      <webElementGuid>2a329938-e364-499a-96b8-68ea47d99f1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/main[1]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;px-0 py-0 popup-first&quot;]/div[@class=&quot;popup-right&quot;]/button[@class=&quot;xbutton&quot;]/span[1]</value>
-      <webElementGuid>79fdf6ad-36df-4831-85ba-8f08aa8d4e3e</webElementGuid>
+      <webElementGuid>13dbe975-be06-4b93-9195-c65a8a60e45a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada yang bisa kami bantu ?'])[1]/preceding::span[1]</value>
-      <webElementGuid>62fd0e3d-ce7f-4d23-a56d-bc2d13dc90e8</webElementGuid>
+      <webElementGuid>e9521b56-f6e1-4460-911a-e3e84d42126f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Whatsapp'])[1]/preceding::span[1]</value>
-      <webElementGuid>91d24817-f24a-48b8-8754-9bc0a53d39b4</webElementGuid>
+      <webElementGuid>8729c27e-b24c-43e7-a614-f32351de4998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='×']/parent::*</value>
-      <webElementGuid>666e037f-a9fb-45dd-89eb-e4755202f81b</webElementGuid>
+      <webElementGuid>7eaddf4a-bd66-4c76-8ae9-9a52a6d45702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>9ab24b39-61f7-4c25-b74d-7cc7fc70af2a</webElementGuid>
+      <webElementGuid>bc710f9a-d244-49df-9412-dc677e89aab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '×' or . = '×')]</value>
-      <webElementGuid>07a34432-ee66-4033-9ca8-b3ce33730e0b</webElementGuid>
+      <webElementGuid>d7ed7768-f990-440d-8cec-6d3d48816cb0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

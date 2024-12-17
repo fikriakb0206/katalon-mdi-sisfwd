@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Operasinal</name>
+   <name>detail_office_rpl_surabaya</name>
    <tag></tag>
-   <elementGuidId>bd7e5a06-c036-4324-955b-9a990c4c3df3</elementGuidId>
+   <elementGuidId>c10a067f-bd2b-4a52-a8c1-140b0776e301</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#headlessui-combobox-option-41</value>
+         <value>#headlessui-combobox-option-26</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>ee6af336-7675-4da4-88f2-94238d419d41</webElementGuid>
+      <webElementGuid>ec148d9b-1a70-4827-9241-d3a0494aab58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>cursor-default select-none relative py-2 pl-10 pr-4 text-gray-900</value>
-      <webElementGuid>7474e8de-1676-4d71-9386-e282542961e1</webElementGuid>
+      <webElementGuid>f4bec73c-dd90-474a-b52a-811d58d5c2a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>headlessui-combobox-option-41</value>
-      <webElementGuid>17fecf9a-f142-4b03-aefb-32b22dbd9c7e</webElementGuid>
+      <value>headlessui-combobox-option-26</value>
+      <webElementGuid>d4255a02-d5ad-4253-9c3a-71d9afd644a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>90169127-9bd7-48d4-8cef-06edfdbd035f</webElementGuid>
+      <webElementGuid>e32a9ece-209a-4c14-8dde-e9805ea15350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,63 +55,63 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d7695a08-4b96-46e0-87c6-0f9806c2cffb</webElementGuid>
+      <webElementGuid>9a92f010-7948-47f6-8efd-9aa68a354a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Operasinal</value>
-      <webElementGuid>0b748647-505d-4744-8587-53ba3d357a7b</webElementGuid>
+      <value>[02] RPL SURABAYA</value>
+      <webElementGuid>309a0c96-9361-4011-b297-73284ec280e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-combobox-option-41&quot;)</value>
-      <webElementGuid>6a2b6795-32c5-4e49-9cf5-9d3d7dd7ab5c</webElementGuid>
+      <value>id(&quot;headlessui-combobox-option-26&quot;)</value>
+      <webElementGuid>03d76ae8-8abc-40f6-983d-f5e9351daa77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='headlessui-combobox-option-41']</value>
-      <webElementGuid>4fdfd212-37c1-4357-a86c-8729a64c7a39</webElementGuid>
+      <value>//li[@id='headlessui-combobox-option-26']</value>
+      <webElementGuid>7e218ac1-8627-4ab1-81c7-3845d21edb6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='headlessui-combobox-options-38']/li[3]</value>
-      <webElementGuid>1d70f651-79e7-4b0b-b52e-94fac0e4212f</webElementGuid>
+      <value>//ul[@id='headlessui-combobox-options-23']/li[3]</value>
+      <webElementGuid>f61c3b10-e683-4c9e-9d07-cf001347f8aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Superadmin'])[1]/following::li[1]</value>
-      <webElementGuid>a658baaf-de5b-46fa-a9f6-f0d8f3db11fa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[03] RPL SUNTER'])[1]/following::li[1]</value>
+      <webElementGuid>f3e87475-ae00-4307-b247-e54f214229d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[4]/following::li[2]</value>
-      <webElementGuid>4f88ba80-9741-466a-97dc-4f066850f864</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[01] RPL JKT'])[1]/following::li[2]</value>
+      <webElementGuid>f180d72c-3ea7-426e-a81d-b3d0f8b2b582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[2]/preceding::li[1]</value>
-      <webElementGuid>b3860d54-c720-4223-ba45-5d2d3266a5b5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[01] RPL Jakarta'])[1]/preceding::li[1]</value>
+      <webElementGuid>d7568792-fb97-42e3-b485-5335a630e1d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,14 +119,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]</value>
-      <webElementGuid>a484d413-e2f1-48b3-9a3d-9825fdc1e2d0</webElementGuid>
+      <webElementGuid>efc7bc10-f8f8-47f6-be24-f34bc93f5c05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[@id = 'headlessui-combobox-option-41' and (text() = 'Operasinal' or . = 'Operasinal')]</value>
-      <webElementGuid>55e42f9d-c797-4997-81a6-98bd214fca5f</webElementGuid>
+      <value>//li[@id = 'headlessui-combobox-option-26' and (text() = '[02] RPL SURABAYA' or . = '[02] RPL SURABAYA')]</value>
+      <webElementGuid>4641284b-e31b-4176-9e48-b19e3884121a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

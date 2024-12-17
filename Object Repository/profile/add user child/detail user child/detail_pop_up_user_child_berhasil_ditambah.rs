@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Operasinal</name>
+   <name>detail_pop_up_user_child_berhasil_ditambah</name>
    <tag></tag>
-   <elementGuidId>bd7e5a06-c036-4324-955b-9a990c4c3df3</elementGuidId>
+   <elementGuidId>8714be7c-ad89-48c4-8907-1049c1c8c239</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul/li[3]</value>
+         <value>//h2[@id='swal2-title']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#headlessui-combobox-option-41</value>
+         <value>#swal2-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>li</value>
-      <webElementGuid>ee6af336-7675-4da4-88f2-94238d419d41</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>20a00101-12d1-40fe-bb53-2b1a2a53728b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cursor-default select-none relative py-2 pl-10 pr-4 text-gray-900</value>
-      <webElementGuid>7474e8de-1676-4d71-9386-e282542961e1</webElementGuid>
+      <value>swal2-title</value>
+      <webElementGuid>f8c069bc-9045-48f7-aab5-1410685b96dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>headlessui-combobox-option-41</value>
-      <webElementGuid>17fecf9a-f142-4b03-aefb-32b22dbd9c7e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>option</value>
-      <webElementGuid>90169127-9bd7-48d4-8cef-06edfdbd035f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>d7695a08-4b96-46e0-87c6-0f9806c2cffb</webElementGuid>
+      <value>swal2-title</value>
+      <webElementGuid>f4024e37-7d43-4ba5-9d01-fe4fd9876bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Operasinal</value>
-      <webElementGuid>0b748647-505d-4744-8587-53ba3d357a7b</webElementGuid>
+      <value>User child berhasil ditambah</value>
+      <webElementGuid>6a85008b-8bfa-465c-8da5-d185359516e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-combobox-option-41&quot;)</value>
-      <webElementGuid>6a2b6795-32c5-4e49-9cf5-9d3d7dd7ab5c</webElementGuid>
+      <value>id(&quot;swal2-title&quot;)</value>
+      <webElementGuid>3a32b72a-7f6d-4883-bb1c-13783c0abe72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='headlessui-combobox-option-41']</value>
-      <webElementGuid>4fdfd212-37c1-4357-a86c-8729a64c7a39</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//ul[@id='headlessui-combobox-options-38']/li[3]</value>
-      <webElementGuid>1d70f651-79e7-4b0b-b52e-94fac0e4212f</webElementGuid>
+      <value>//h2[@id='swal2-title']</value>
+      <webElementGuid>13910203-09a7-4821-96bb-c767050c6fe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Superadmin'])[1]/following::li[1]</value>
-      <webElementGuid>a658baaf-de5b-46fa-a9f6-f0d8f3db11fa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
+      <webElementGuid>d071e5af-fd75-4b2a-9e7d-8ee65c34a50d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[4]/following::li[2]</value>
-      <webElementGuid>4f88ba80-9741-466a-97dc-4f066850f864</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::h2[1]</value>
+      <webElementGuid>20c33994-d857-4501-8963-e2263096fba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[2]/preceding::li[1]</value>
-      <webElementGuid>b3860d54-c720-4223-ba45-5d2d3266a5b5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::h2[1]</value>
+      <webElementGuid>54718793-01c2-4f28-bdd5-a0996a01d795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h2[1]</value>
+      <webElementGuid>bed0bc2d-fb7c-437a-bf9d-4ee72e7bb630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User child berhasil ditambah']/parent::*</value>
+      <webElementGuid>556e1a8c-b048-4145-bfcd-a3e8bea180bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]</value>
-      <webElementGuid>a484d413-e2f1-48b3-9a3d-9825fdc1e2d0</webElementGuid>
+      <value>//h2</value>
+      <webElementGuid>1584f231-c2e4-4d3f-94be-c32bd65e72cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[@id = 'headlessui-combobox-option-41' and (text() = 'Operasinal' or . = 'Operasinal')]</value>
-      <webElementGuid>55e42f9d-c797-4997-81a6-98bd214fca5f</webElementGuid>
+      <value>//h2[@id = 'swal2-title' and (text() = 'User child berhasil ditambah' or . = 'User child berhasil ditambah')]</value>
+      <webElementGuid>69aba659-fcfe-4e44-a00d-43fb85686040</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>menu_report</name>
+   <name>detail_password</name>
    <tag></tag>
-   <elementGuidId>a1ce72c9-74ef-4b54-b0fa-fcc8e0cab9de</elementGuidId>
+   <elementGuidId>cfc27643-b36b-455f-bec7-dcd56b976d30</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[7]/div[38]/input[1]</value>
+         <value>//input[@id='password']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mQuotation-36</value>
+         <value>#password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8faa0856-43f3-4187-9fcc-6ccb1135cb93</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>53ae3ed6-1f42-46dc-a52c-07f6232de547</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>mQuotation-36</value>
-      <webElementGuid>c3df4a4e-df45-42f5-bf47-bca5b4eebbd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-checkbox w-6 h-6 rounded-md mr-4 form-check appearance-none checked:border-0 checked:bg-secondary border-2 border-placeholder</value>
-      <webElementGuid>734e8713-e77e-4fe5-bd27-3f52c45d7f77</webElementGuid>
+      <webElementGuid>cdd975bb-8f8e-409c-af36-741ffca6082d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>accessbility</value>
-      <webElementGuid>47b316b7-a988-47b1-b277-84b0c58f8cbf</webElementGuid>
+      <value>password</value>
+      <webElementGuid>9937180a-17fc-417d-804f-f864be58108d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>68b3c84b-33a7-4242-a8b8-38e16910803c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>7bc8bc1f-6bfe-40ea-aedf-202c8e61ffa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value>53</value>
-      <webElementGuid>ac86c43a-8a4e-4798-ae08-7a29fb9e6463</webElementGuid>
+      <value>bg-white border-2 border-line rounded-xl  pr-4 h-14  focus:outline-none w-full undefined pl-4</value>
+      <webElementGuid>2e9fc70a-e02d-475c-908d-8ab762b58bbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mQuotation-36&quot;)</value>
-      <webElementGuid>545f7a58-82a1-4f22-bdda-c2997c42fc80</webElementGuid>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>f92f66dc-d11d-4f56-8455-425834eadcdb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mQuotation-36']</value>
-      <webElementGuid>8f43df35-bb3b-4778-8686-ba69c2f5e533</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>a67c4a58-631f-4c7b-8184-bef0ec104990</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[9]/div[37]/input</value>
-      <webElementGuid>e5c81470-59ca-46ea-9a85-7f62829601ce</webElementGuid>
+      <value>//div[@id='headlessui-dialog-23']/div/div[2]/div/div/form/div/label/input</value>
+      <webElementGuid>9897817e-fd18-435d-af06-fd8363214a41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[37]/input</value>
-      <webElementGuid>1d661e80-9fb6-4300-89fa-eccb93ac141c</webElementGuid>
+      <value>//form/div/label/input</value>
+      <webElementGuid>14e02de7-b9cc-486a-b6bf-e3d975c65e94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'mQuotation-36' and @name = 'accessbility']</value>
-      <webElementGuid>3caadcfc-802a-4177-8b91-942ad12fe9c5</webElementGuid>
+      <value>//input[@name = 'password' and @type = 'password' and @id = 'password']</value>
+      <webElementGuid>2622be3d-45c9-451b-8995-cbd1c38d5271</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

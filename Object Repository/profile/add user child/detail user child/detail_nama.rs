@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>menu_report</name>
+   <name>detail_nama</name>
    <tag></tag>
-   <elementGuidId>a1ce72c9-74ef-4b54-b0fa-fcc8e0cab9de</elementGuidId>
+   <elementGuidId>fa25b32d-3363-4028-a9f3-21cfbb0ec0db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[7]/div[38]/input[1]</value>
+         <value>//input[@id='username']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mQuotation-36</value>
+         <value>#username</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8faa0856-43f3-4187-9fcc-6ccb1135cb93</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>53ae3ed6-1f42-46dc-a52c-07f6232de547</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>mQuotation-36</value>
-      <webElementGuid>c3df4a4e-df45-42f5-bf47-bca5b4eebbd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-checkbox w-6 h-6 rounded-md mr-4 form-check appearance-none checked:border-0 checked:bg-secondary border-2 border-placeholder</value>
-      <webElementGuid>734e8713-e77e-4fe5-bd27-3f52c45d7f77</webElementGuid>
+      <webElementGuid>3c40fd1c-49fa-4fa1-9ad6-eb810cd72ba3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>accessbility</value>
-      <webElementGuid>47b316b7-a988-47b1-b277-84b0c58f8cbf</webElementGuid>
+      <value>username</value>
+      <webElementGuid>44e028c9-c473-440d-acf8-d070cc42847a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>07d3db94-ddae-4cd8-a13f-b516f5ab5e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6a6cdbdd-0bf4-4184-b91f-5ef034d553fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nama</value>
+      <webElementGuid>d6c96de0-bf42-49fd-bc9c-4a5a7ac5a410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1 h-14 w-full rounded-xl pr-4 focus:outline-[1px]  bg-bg cursor-not-allowed focus:outline-none focus:outline-0  border-line border-2 pl-4</value>
+      <webElementGuid>03f3c294-9c59-4d62-989a-bfdc1bf7e7c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>53</value>
-      <webElementGuid>ac86c43a-8a4e-4798-ae08-7a29fb9e6463</webElementGuid>
+      <value>Akun Sales</value>
+      <webElementGuid>e081c55c-c43a-4515-ae74-97b12852d41d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mQuotation-36&quot;)</value>
-      <webElementGuid>545f7a58-82a1-4f22-bdda-c2997c42fc80</webElementGuid>
+      <value>id(&quot;username&quot;)</value>
+      <webElementGuid>7df12ff6-23c3-45e4-ad65-95a70505c733</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mQuotation-36']</value>
-      <webElementGuid>8f43df35-bb3b-4778-8686-ba69c2f5e533</webElementGuid>
+      <value>//input[@id='username']</value>
+      <webElementGuid>08fae76c-cd4b-4064-93bc-c078ab9788ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[9]/div[37]/input</value>
-      <webElementGuid>e5c81470-59ca-46ea-9a85-7f62829601ce</webElementGuid>
+      <value>//div[@id='headlessui-dialog-12']/div/div[2]/div/form/div/div[2]/div[2]/label/input</value>
+      <webElementGuid>c3888e72-1061-474e-9e09-0ce387dde3bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[37]/input</value>
-      <webElementGuid>1d661e80-9fb6-4300-89fa-eccb93ac141c</webElementGuid>
+      <value>//div[2]/div/form/div/div[2]/div[2]/label/input</value>
+      <webElementGuid>bf7ebe86-f394-41ff-848c-6d982b634a41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'mQuotation-36' and @name = 'accessbility']</value>
-      <webElementGuid>3caadcfc-802a-4177-8b91-942ad12fe9c5</webElementGuid>
+      <value>//input[@name = 'username' and @id = 'username' and @type = 'text' and @placeholder = 'Nama']</value>
+      <webElementGuid>07814238-7c69-470b-9d23-ce2da9ea0f45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

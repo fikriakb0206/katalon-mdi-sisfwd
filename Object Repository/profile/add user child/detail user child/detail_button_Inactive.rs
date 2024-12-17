@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>detail_button_Inactive</name>
+   <tag></tag>
+   <elementGuidId>41e4b4ba-2da9-4668-8c6b-bac9aca19554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Inactive' or . = 'Inactive')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1a468e22-0d16-489a-ae7d-82c846fde502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1547015c-cc33-4862-9d80-8fc00facd9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xs: justify-center sm:ml-5 text-label px-3 py-3 text-m rounded-xl appearance-none flex sm:items-center</value>
+      <webElementGuid>0834e083-1fae-40fe-86f5-2ced4de76083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inactive</value>
+      <webElementGuid>8bf4296c-e4c2-461e-ab87-32b10808436d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;flex flex-col sm:flex-row sm:items-center xs:my-3&quot;]/div[@class=&quot;flex flex-col sm:flex-row xs:gap-3 sm:justify-end items-center&quot;]/button[@class=&quot;xs: justify-center sm:ml-5 text-label px-3 py-3 text-m rounded-xl appearance-none flex sm:items-center&quot;]</value>
+      <webElementGuid>2a1b1e63-4d18-4672-ab74-2d62b86b7bbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Inactive' or . = 'Inactive')]</value>
+      <webElementGuid>8b808d66-758f-4938-a420-5e47c76d72f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

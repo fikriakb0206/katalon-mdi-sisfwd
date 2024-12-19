@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>office_tambah_pin_point_button_Batal</name>
+   <tag></tag>
+   <elementGuidId>5884ebcd-355c-4e07-8dcc-5aa81b1d3fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-429']/div/div[2]/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9302da4-69a5-4556-81b3-9949d78e3d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sm:mr-9 py-1 font-semibold text-label </value>
+      <webElementGuid>b973162b-69a7-4a45-a64f-0417709e195e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batal</value>
+      <webElementGuid>a862001a-f390-4551-9523-32ac077d53a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-429&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[957px] px-6 py-5 bg-white&quot;]/div[@class=&quot;flex flex-col sm:flex-row gap-3 sm:gap-0 justify-end mt-6&quot;]/button[@class=&quot;sm:mr-9 py-1 font-semibold text-label&quot;]</value>
+      <webElementGuid>9b74f599-e026-4051-8a17-307cad00a039</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-429']/div/div[2]/div/div[3]/button</value>
+      <webElementGuid>d01d6abd-1eec-4a5d-92c5-46cc81976bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a map error'])[1]/following::button[1]</value>
+      <webElementGuid>e38fe883-2f8e-4db2-b69a-69b5c8d60520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::button[1]</value>
+      <webElementGuid>4ceb8ac7-e5d3-4afc-876c-4f8d8c2e0808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan Lokasi'])[1]/preceding::button[1]</value>
+      <webElementGuid>c4f07ea0-220d-40c1-a651-29aa383addc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banten'])[1]/preceding::button[3]</value>
+      <webElementGuid>158f327b-c9dd-4d8b-8dbb-53ce0af17dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batal']/parent::*</value>
+      <webElementGuid>53478f60-c570-4a55-bf59-7006616fee23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>8a800374-ad34-4e14-a518-3d2893d75255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Batal' or . = 'Batal')]</value>
+      <webElementGuid>a60f439b-8cf5-4d1e-9877-2790acd6e08f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

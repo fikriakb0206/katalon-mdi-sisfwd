@@ -35,22 +35,28 @@ WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra Logistik/button_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/profile/Page_Akun  Rajawali Putra Logistik/menu_akun_staff'))
+WebUI.click(findTestObject('Object Repository/Master Data/menu_master_data'))
 
-WebUI.setText(findTestObject('Object Repository/profile/search_user'), 'sales')
+WebUI.click(findTestObject('Object Repository/Master Data/Office/menu_office'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/profile/list_user'), 'Akun Sales 1')
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_button_tambah'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_button_create'))
 
-WebUI.click(findTestObject('Object Repository/profile/detail_user'))
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Alamat Gedung_Bangunan Wajib diisi'), alamat)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Inactive'))
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Company Name Wajib diisi'), company_name)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Inactive_pop_up'))
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Email Wajib diisi'), email)
 
-WebUI.verifyElementText(findTestObject('Object Repository/profile/add user child/detail user child/detail_pop_up_berhasil_ubah_status_user'), 
-    'Berhasil Ubah status User')
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Initial Name Wajib diisi'), initial)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Kabupaten_Kota Wajib dipilih'), kota)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Number of code Wajib diisi'), number)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Provinsi Wajib dipilih'), provinsi)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/validation/office_tambah_validation_Telepon Wajib diisi'), tlp)
 
 WebUI.closeBrowser()
-

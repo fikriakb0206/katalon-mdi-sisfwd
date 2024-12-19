@@ -37,20 +37,21 @@ WebUI.click(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra L
 
 WebUI.click(findTestObject('Object Repository/profile/Page_Akun  Rajawali Putra Logistik/menu_akun_staff'))
 
+WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/button_tab_Inactive'))
+
+WebUI.click(findTestObject('Object Repository/profile/detail_user'))
+
+WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Activate'))
+
+WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Activate_pop_up'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/profile/add user child/detail user child/detail_pop_up_berhasil_ubah_status_user'), 'Berhasil Ubah status User')
+
 WebUI.setText(findTestObject('Object Repository/profile/search_user'), 'sales')
 
 WebUI.verifyElementText(findTestObject('Object Repository/profile/list_user'), 'Akun Sales 1')
 
-WebUI.delay(2)
+//WebUI.closeBrowser()
 
-WebUI.click(findTestObject('Object Repository/profile/detail_user'))
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Inactive'))
-
-WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Inactive_pop_up'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/profile/add user child/detail user child/detail_pop_up_berhasil_ubah_status_user'), 
-    'Berhasil Ubah status User')
-
-WebUI.closeBrowser()
 

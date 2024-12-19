@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>office_tambah_dropdown_kota</name>
+   <tag></tag>
+   <elementGuidId>ed97a400-b6de-4fe7-acd4-2a126592ca5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headlessui-combobox-button-10 > div.absolute.inset-y-0.right-0.flex.items-center.pr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-combobox-button-10']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1eee5bf-b941-4e37-9071-a3454917e36d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-y-0 right-0 flex items-center pr-2</value>
+      <webElementGuid>96a58976-64f9-475d-9423-bfe0b4d52b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-combobox-button-10&quot;)/div[@class=&quot;absolute inset-y-0 right-0 flex items-center pr-2&quot;]</value>
+      <webElementGuid>764c68d8-cb55-4ea1-bd62-8516d2041149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-combobox-button-10']/div</value>
+      <webElementGuid>f79eaba8-cb6e-4c09-956e-81132ae92765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telepon'])[5]/following::div[8]</value>
+      <webElementGuid>59d2d5cd-ded2-4bdd-a281-1f4c262b4a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[9]</value>
+      <webElementGuid>3c658b14-8c1c-48e0-b9f5-aa1c18587fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Gedung/Bangunan'])[1]/preceding::div[1]</value>
+      <webElementGuid>671bfed0-ca7d-4800-aed4-700d18969bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Lokasi'])[1]/preceding::div[2]</value>
+      <webElementGuid>bddd1460-2b05-4f1b-8af4-33d397116cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/button/div</value>
+      <webElementGuid>2e6bdb4a-2a1e-431b-bdae-96589801f5d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

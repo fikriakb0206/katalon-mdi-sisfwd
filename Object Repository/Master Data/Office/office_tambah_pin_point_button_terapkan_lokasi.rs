@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>office_tambah_pin_point_button_terapkan_lokasi</name>
+   <tag></tag>
+   <elementGuidId>193ae74b-26a5-4343-bb80-4b6db21eca94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.px-6.py-4.font-semibold.text-white.bg-secondary.rounded-xl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-424']/div/div[2]/div/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3fde07d3-17fb-4e9e-a41a-e942662d8980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-4 font-semibold text-white bg-secondary rounded-xl</value>
+      <webElementGuid>93633af1-885c-41ed-b5f8-cfcbecdcb825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terapkan Lokasi</value>
+      <webElementGuid>9b0d08fa-3187-4f35-8da6-b4b576177bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-424&quot;)/div[@class=&quot;flex min-h-screen items-center justify-center px-4 pt-4 text-center sm:block sm:items-end sm:p-0 lg:pb-20&quot;]/div[@class=&quot;relative inline-block w-[95%] flex-grow transform overflow-hidden text-left align-bottom transition-all sm:my-8 sm:w-[auto] sm:align-middle&quot;]/div[@class=&quot;w-full sm:w-[957px] px-6 py-5 bg-white&quot;]/div[@class=&quot;flex flex-col sm:flex-row gap-3 sm:gap-0 justify-end mt-6&quot;]/button[@class=&quot;px-6 py-4 font-semibold text-white bg-secondary rounded-xl&quot;]</value>
+      <webElementGuid>2d12987f-1075-427e-b5b8-3ec7fc15e2c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-424']/div/div[2]/div/div[3]/button[2]</value>
+      <webElementGuid>e1f30dd9-55dc-4b48-830c-286818c49312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
+      <webElementGuid>454ea91c-a41c-4f50-863e-c3ac46a72925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a map error'])[1]/following::button[2]</value>
+      <webElementGuid>94da6a8a-ea0e-4559-8879-aa2a651eecfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banten'])[1]/preceding::button[2]</value>
+      <webElementGuid>80abfa75-4fbc-411a-9c9a-3955c6743b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::button[2]</value>
+      <webElementGuid>56b6a2c4-6a13-4a64-9698-66b46e59792d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terapkan Lokasi']/parent::*</value>
+      <webElementGuid>da3ec25d-b085-4eca-8aa0-32579d41b5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>1dda0efb-3503-42da-86a0-e3574efba9f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Terapkan Lokasi' or . = 'Terapkan Lokasi')]</value>
+      <webElementGuid>08c822d5-c446-42ad-9d35-c4e95db77a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

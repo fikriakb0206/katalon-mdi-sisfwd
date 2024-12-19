@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>detail_status_active</name>
+   <tag></tag>
+   <elementGuidId>33c1c320-4b3e-4d2f-aa1a-4070d9aeb353</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/main/section/div/div[2]/table/tbody/tr/td[5]/div/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bg-secondary-low.text-success.p-2.rounded-xl.font-semibold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0cde311f-d78e-43b9-a6f6-dc48facbcc95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-secondary-low text-success p-2 rounded-xl font-semibold</value>
+      <webElementGuid>2b46c186-d7cb-444f-a287-2b83efb3d13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>3eda9e2f-27a8-4278-a40a-0d9898c5ba46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;flex flex-col w-100 h-[100vh] overflow-hidden&quot;]/main[@class=&quot;bg-bg lg:flex  overflow-y-auto lg:overflow-hidden flex-grow relative&quot;]/section[@class=&quot;relative h-full flex flex-col lg:w-4/5&quot;]/div[@class=&quot;flex-grow overflow-y-auto py-5 sm:px-14&quot;]/div[@class=&quot;p-0 sm:p-7 mb-10&quot;]/table[@class=&quot;flex flex-col w-full table-auto sm:table&quot;]/tbody[1]/tr[@class=&quot;border-b-2 border-line flex flex-col sm:table-row my-5 sm:my-0&quot;]/td[@class=&quot;break-all bg-white p-4 text-body&quot;]/div[@class=&quot;flex&quot;]/span[@class=&quot;flex-1 text-xs&quot;]/span[@class=&quot;bg-secondary-low text-success p-2 rounded-xl font-semibold&quot;]</value>
+      <webElementGuid>7ad2759e-6314-4431-81b7-fb9bd44ad6be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/main/section/div/div[2]/table/tbody/tr/td[5]/div/span[2]/span</value>
+      <webElementGuid>e79ec2d3-7b9a-477a-8752-f7535dacc6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[2]</value>
+      <webElementGuid>02cbb0bd-34d5-4729-951b-bc8f5f0752d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driver'])[1]/following::span[3]</value>
+      <webElementGuid>c185c172-96fb-4eba-9246-604b0c8d5257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::span[2]</value>
+      <webElementGuid>81ff17a9-f679-4f87-a5dc-678839db19d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User ID'])[2]/preceding::span[3]</value>
+      <webElementGuid>d3c25173-0d90-4407-be32-28d4fc467cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>42434283-5547-4abf-8c32-342afc3bd527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>80303839-cad0-43d1-95af-c09eff8bed1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

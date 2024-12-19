@@ -35,22 +35,44 @@ WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Login  Rajawali Putra Logistik/button_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/profile/Page_Akun  Rajawali Putra Logistik/menu_akun_staff'))
+WebUI.click(findTestObject('Object Repository/Master Data/menu_master_data'))
 
-WebUI.setText(findTestObject('Object Repository/profile/search_user'), 'sales')
+WebUI.click(findTestObject('Object Repository/Master Data/Office/menu_office'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/profile/list_user'), 'Akun Sales 1')
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_button_tambah'))
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_company_name'), company_name)
 
-WebUI.click(findTestObject('Object Repository/profile/detail_user'))
+WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_initial_name'), initial)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Inactive'))
+WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_number_of_code'), number)
 
-WebUI.click(findTestObject('Object Repository/profile/add user child/detail user child/detail_button_Inactive_pop_up'))
+WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_email'), email)
 
-WebUI.verifyElementText(findTestObject('Object Repository/profile/add user child/detail user child/detail_pop_up_berhasil_ubah_status_user'), 
-    'Berhasil Ubah status User')
+WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_telepon'), tlp)
+
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_dropdown_provinsi'))
+
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_dropdown_provinsi_jakarta'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_dropdown_kota'))
+
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_dropdown_kota_jakarta_barat'))
+
+WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_alamat'), alamat)
+
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_button_pin_point'))
+
+WebUI.sendKeys(findTestObject('Object Repository/Master Data/Office/office_tambah_button_pin_point_search'), Keys.chord(
+        Keys.ENTER, 'Jakarta Barat'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_tambah_pin_point_button_terapkan_lokasi'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Master Data/Office/office_tambah_pop_up_Berhasil Disimpan'), 'Data Office Berhasil Disimpan')
 
 WebUI.closeBrowser()
 

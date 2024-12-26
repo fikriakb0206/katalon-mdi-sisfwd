@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/profile/Page_Akun  Rajawali Putra 
 
 WebUI.setText(findTestObject('Object Repository/profile/search_user'), 'sales')
 
-WebUI.verifyElementText(findTestObject('Object Repository/profile/list_user'), 'Akun Sales 1')
+WebUI.verifyElementText(findTestObject('Object Repository/profile/list_user'), 'Automation Test Sales New')
 
 WebUI.delay(2)
 

@@ -130,7 +130,7 @@
       <name>sales</name>
    </variable>
    <variable>
-      <defaultValue>'Akun Sales'</defaultValue>
+      <defaultValue>'Automation Test Sales'</defaultValue>
       <description></description>
       <id>8e99a310-21ab-4b16-bc55-0899044541eb</id>
       <masked>false</masked>

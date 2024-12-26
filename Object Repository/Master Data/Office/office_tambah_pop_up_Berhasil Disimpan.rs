@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>586ae34b-9b9b-4869-8649-e0ffcc680b56</webElementGuid>
+      <webElementGuid>a9012830-0ab7-4276-a493-dcf741a4b8be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-title</value>
-      <webElementGuid>951ddc3d-1479-4432-b2a5-2a77e3e65365</webElementGuid>
+      <webElementGuid>dbe8aa3f-5aa9-4958-8276-23aacab446c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>swal2-title</value>
-      <webElementGuid>8acdb8df-994b-43d9-91a4-f22829ec6477</webElementGuid>
+      <webElementGuid>67c5800f-02a2-4183-b882-49daf0f4bc05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Data Office Berhasil Disimpan</value>
-      <webElementGuid>2615f1af-7c2f-4cd1-b1ec-38419f67e4b4</webElementGuid>
+      <webElementGuid>989648b0-55e6-4ebc-b4e1-ecaa1adc6d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;swal2-title&quot;)</value>
-      <webElementGuid>005c7267-66da-4ced-aae0-5e788a855424</webElementGuid>
+      <webElementGuid>1233de76-f3f9-4c2d-915c-0d1b93aea6a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='swal2-title']</value>
-      <webElementGuid>efa5c41c-5380-4acb-8ed0-9755f9e66671</webElementGuid>
+      <webElementGuid>6c15991a-af36-4cab-990a-6879c5442ebd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
-      <webElementGuid>b3b1cc97-5928-4b48-9a72-e0e0c4e01fb1</webElementGuid>
+      <webElementGuid>51124afd-3e7f-455a-b822-ffe56c4c1498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::h2[1]</value>
-      <webElementGuid>29821ee4-fa0e-459e-9d58-54a71e977dde</webElementGuid>
+      <webElementGuid>cd3db849-714f-4ecd-923e-6dd82bf4c3b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::h2[1]</value>
-      <webElementGuid>fb80d8a5-9815-48da-8c0c-4fa4c0a64b7e</webElementGuid>
+      <webElementGuid>973e66cc-def3-42c8-8768-be35dce5d91e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h2[1]</value>
-      <webElementGuid>42c168f0-77ea-4743-b865-479056faedb3</webElementGuid>
+      <webElementGuid>ccc69123-095b-4cd6-ba3e-83e5e9862331</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Data Office Berhasil Disimpan']/parent::*</value>
-      <webElementGuid>ea79a600-2b86-4fdf-a9a3-fb79d5276417</webElementGuid>
+      <webElementGuid>a8275289-0dd7-4258-846c-bce59044afc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>c4362c23-6870-4b8b-a5aa-295dc43c94e7</webElementGuid>
+      <webElementGuid>5ce2501c-73da-4422-b265-93681a8ea65b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'swal2-title' and (text() = 'Data Office Berhasil Disimpan' or . = 'Data Office Berhasil Disimpan')]</value>
-      <webElementGuid>020fc852-82d2-4da3-a0b9-a1b9a0db239f</webElementGuid>
+      <webElementGuid>5d371915-5838-4648-a48f-d67c698a1776</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

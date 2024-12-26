@@ -82,7 +82,7 @@
       <name>password</name>
    </variable>
    <variable>
-      <defaultValue>'Akun Driver'</defaultValue>
+      <defaultValue>'Automation Test Driver'</defaultValue>
       <description></description>
       <id>5759165f-b509-41e3-b612-5b7a74243669</id>
       <masked>false</masked>

@@ -82,7 +82,7 @@
       <name>password</name>
    </variable>
    <variable>
-      <defaultValue>'Akun Sales'</defaultValue>
+      <defaultValue>'Automation Test Sales'</defaultValue>
       <description></description>
       <id>b1f37d7a-104c-4c73-9dd0-76fc0a20d08c</id>
       <masked>false</masked>

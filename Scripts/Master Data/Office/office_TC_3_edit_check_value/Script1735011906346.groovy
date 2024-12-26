@@ -39,9 +39,11 @@ WebUI.click(findTestObject('Object Repository/Master Data/menu_master_data'))
 
 WebUI.click(findTestObject('Object Repository/Master Data/Office/menu_office'))
 
-WebUI.click(findTestObject('Object Repository/Master Data/Office/office_button_tambah'))
+WebUI.click(findTestObject('Object Repository/Master Data/Office/office_button_Edit'))
 
-WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_company_name'), company_name)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Master Data/Office/Validation Value/office_tambah_company_name_value'), 0)
+
+//sampai sini
 
 WebUI.setText(findTestObject('Object Repository/Master Data/Office/office_tambah_initial_name'), initial)
 

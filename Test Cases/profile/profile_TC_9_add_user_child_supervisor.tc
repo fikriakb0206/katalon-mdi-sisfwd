@@ -82,7 +82,7 @@
       <name>password</name>
    </variable>
    <variable>
-      <defaultValue>'Akun SPV'</defaultValue>
+      <defaultValue>'Automation Test SPV'</defaultValue>
       <description></description>
       <id>a0e3fe07-ecec-400e-b010-8170688b808e</id>
       <masked>false</masked>
